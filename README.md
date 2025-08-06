@@ -17,3 +17,8 @@ folder to get familiarized with the badge:
 ## Render
 
 ![PCB Render Front](Design/Render_Front.png)
+
+## License
+
+Unless where stated otherwise, all files in this repository are licensed under
+the [MIT License](LICENSE).
