@@ -18,6 +18,10 @@ folder to get familiarized with the badge:
 
 ![PCB Render Front](Design/Render_Front.png)
 
+## Numbering of LEDs and touch pad
+
+![LED and touch pad numbering](Design/Butterfly_Led_Pad_Numbering.png)
+
 ## License
 
 Unless where stated otherwise, all files in this repository are licensed under
